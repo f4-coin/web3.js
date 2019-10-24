@@ -1,6 +1,4 @@
 
-![Web3.js logo](assets/web3js.svg)
-
 # web3.js - Ethereum JavaScript API
 
 [![npm](https://img.shields.io/npm/dm/web3.svg)](https://www.npmjs.com/package/web3) [![Build Status][travis-image]][travis-url] ![Coverage Status](https://coveralls.io/repos/github/ethereum/web3.js/badge.svg?branch=2.x&kill_cache=1)
